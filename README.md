@@ -23,3 +23,7 @@ You can see the results of my public work on this profile page or on [@OctopyID]
 ![Contributions](https://raw.githubusercontent.com/SupianIDz/SupianIDz/metrics/notable.svg)
 ---
 ![Achievements](https://raw.githubusercontent.com/SupianIDz/SupianIDz/metrics/achievements.svg)
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=SupianIDz&label=Profile%20views&color=0e75b6&style=for-the-badge">
+</p>
