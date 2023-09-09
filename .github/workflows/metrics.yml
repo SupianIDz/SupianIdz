@@ -87,7 +87,7 @@ jobs:
   achievements:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@96dde98a034ab75fec7884f9161bc12759275d36
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
