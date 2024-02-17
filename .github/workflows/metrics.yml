@@ -27,6 +27,11 @@ jobs:
           config_padding: 0
           config_output: svg
           filename: metrics.svg
+
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers
           
   notable:
     runs-on: ubuntu-latest
