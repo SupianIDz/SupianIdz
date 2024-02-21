@@ -19,6 +19,9 @@ You can see the results of my public work on this profile page or on [@OctopyID]
 ---
 
 ![Metrics](https://raw.githubusercontent.com/SupianIDz/SupianIDz/metrics/metrics.svg)
+<a href="https://app.daily.dev/supianidz">
+   <img src="https://api.daily.dev/devcards/v2/i1iE0OYf6.png?type=default&r=q8d" width="290" alt="Supian M's Dev Card"/>
+</a>
 ---
 ![Contributions](https://raw.githubusercontent.com/SupianIDz/SupianIDz/metrics/notable.svg)
 ---
