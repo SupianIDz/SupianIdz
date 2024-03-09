@@ -7,6 +7,6 @@ jobs:
       - name: Replace string in file
         uses: MathieuSoysal/replace-string-in-file@v1.1.0
         with:
-          file: tests/test-file.txt
+          file: metrics.svg
           old-string: 383
           new-string: 400
