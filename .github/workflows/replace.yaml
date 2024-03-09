@@ -4,10 +4,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Find and Replace
-        uses: jacobtomlinson/gha-find-replace@v3
+      - name: Replace string in file
+        uses: MathieuSoysal/replace-string-in-file@v1.1.0
         with:
-          find: "383"
-          replace: "400"
-          regex: false
+          file: tests/test-file.txt
+          old-string: 383
+          new-string: 400
