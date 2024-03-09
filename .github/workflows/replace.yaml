@@ -8,7 +8,6 @@ jobs:
       - name: Find and Replace
         uses: jacobtomlinson/gha-find-replace@v3
         with:
-          find: "height=\"383\""
-          replace: "height=\"400\""
+          find: "383"
+          replace: "400"
           regex: false
-          include: "metrics.svg"
