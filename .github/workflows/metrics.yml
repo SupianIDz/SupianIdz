@@ -24,7 +24,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Makassar
-          config_padding: 0
           config_output: svg
           filename: metrics.svg
 
@@ -46,7 +45,6 @@ jobs:
           user: SupianIDz
           template: classic
           base: ""
-          config_padding: 0
           config_display: large
           config_timezone: Asia/Makassar
           config_output: svg
@@ -97,7 +95,6 @@ jobs:
           user: SupianIDz
           template: classic
           base: ""
-          config_padding: 0
           config_display: large
           config_timezone: Asia/Makassar
           config_output: svg
