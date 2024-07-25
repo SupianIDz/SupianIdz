@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg">
+    <a href="https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md" target="_blank">
+        <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg">
+    </a>
 </p>
     
 <div align="left">
